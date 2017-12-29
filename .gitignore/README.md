@@ -1,2 +1,0 @@
-# GameTale
-Netsuke
